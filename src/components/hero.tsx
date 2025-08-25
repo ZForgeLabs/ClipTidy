@@ -15,14 +15,14 @@ export default function Hero() {
             <h1 className="text-6xl sm:text-7xl font-bold text-white mb-8 tracking-tight">
               Transform Videos for{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">
-                TikTok & Reels
+                Mobile & Social
               </span>
             </h1>
 
             <p className="text-xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-              Convert horizontal videos to perfect vertical format with
+              Convert videos to perfect vertical format with
               intelligent cropping and positioning controls. Optimized for
-              TikTok, Instagram Reels, and YouTube Shorts.
+              mobile phones and social media platforms.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16">

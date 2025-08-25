@@ -29,8 +29,8 @@ export default async function Home() {
               Perfect for Every Platform
             </h2>
             <p className="text-gray-300 max-w-2xl mx-auto">
-              Transform your horizontal videos into engaging vertical content
-              optimized for TikTok, Instagram Reels, and YouTube Shorts.
+              Transform your videos into engaging vertical content
+              optimized for mobile phones and social media platforms.
             </p>
           </div>
 
@@ -40,7 +40,7 @@ export default async function Home() {
                 icon: <Smartphone className="w-8 h-8" />,
                 title: "Mobile-First Design",
                 description:
-                  "Perfect 9:16 aspect ratio for all vertical platforms",
+                  "Perfect 9:16 aspect ratio for all mobile platforms",
               },
               {
                 icon: <Scissors className="w-8 h-8" />,
@@ -87,7 +87,7 @@ export default async function Home() {
                 <span className="text-2xl font-bold text-blue-400">1</span>
               </div>
               <h3 className="text-xl font-semibold text-white">Upload Video</h3>
-              <p className="text-gray-300">Drop your horizontal video file</p>
+              <p className="text-gray-300">Drop your video file</p>
             </div>
             <div className="space-y-4">
               <div className="w-16 h-16 bg-purple-500/20 rounded-full flex items-center justify-center mx-auto border border-purple-400/30">
